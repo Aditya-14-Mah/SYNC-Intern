@@ -12,16 +12,6 @@ Welcome to the Music Web App project! This web application allows users to disco
 - Enjoy high-quality audio streaming with minimal buffering.
 - User-friendly interface designed for seamless navigation and enjoyment.
 
-Welcome to the Music Web App project! This web application allows users to discover and listen to their favorite music online. Whether you're into the latest hits, classic tunes, or discovering new genres, our platform has something for everyone.
-
-## Features
-
-- Browse a vast library of songs, albums, and artists.
-- Create personalized playlists and save your favorite tracks.
-- Discover new music recommendations based on your listening history.
-- Enjoy high-quality audio streaming with minimal buffering.
-- User-friendly interface designed for seamless navigation and enjoyment.
-
 ## Getting Started
 
 To run the Music Web App locally on your machine, follow these steps:
