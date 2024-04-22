@@ -1,6 +1,6 @@
 # Music Web App
 
-![Music Web App](/Music_Web_App.png)
+![Music Web App](./Music Player/Music_Web_App.png)
 
 Welcome to the Music Web App project! This web application allows users to discover and listen to their favorite music online. Whether you're into the latest hits, classic tunes, or discovering new genres, our platform has something for everyone.
 
