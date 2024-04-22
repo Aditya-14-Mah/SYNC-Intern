@@ -20,11 +20,20 @@ To run the Music Web App locally on your machine, follow these steps:
 
    ```bash
    git clone https://github.com/Aditya-14-Mah/SYNC-Intern.git
+   ```
 2.  Navigate to the project directory:
+    ```bash
     cd music-web-app
+    ```
 3.  Install dependencies:
+    ```bash
     npm install
+    ```
 4.  Start the development server:
+    ```bash
     npm start
+    ```
 5.  Demo
+    ```bash
     Check out the live demo of the Music Web App here. https://adityamplayer.netlify.app/
+    ```
